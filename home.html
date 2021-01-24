@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width">
+		<title>StarDraws</title>
+		<link rel="preconnect" href="https://fonts.gstatic.com">
+		<link href="https://fonts.googleapis.com/css2?family=Yusei+Magic&display=swap" rel="stylesheet">
+
+		<style>
+			body {
+				background-color: #f0ceec;
+				background:
+					color: #fff;
+				font-family: 'Yusei Magic', sans-serif;
+				margin: 0px;
+				padding: 0px;
+				color: #767676;
+				letter-spacing: 0.05em;
+				line-height: 2em;
+			}
+
+			h1 {
+				text-align: center;
+				color: #fff;
+			}
+
+			.all {
+				position: absolute;
+				top: 30%;
+				left: 50%;
+				transform: translate(-50%, -30%);
+				width: 80%;
+				max-width: 700px;
+			}
+
+			.button {
+				font-family: inherit;
+				display: inline;
+				padding: 5px 12px;
+				cursor: pointer;
+				text-align: center;
+				text-decoration: none;
+				outline: none;
+				color: grey;
+				background-color: white;
+				border: none;
+				border-radius: 15px;
+				box-shadow: 0 3px #999;
+			}
+
+			.button:hover {
+				background-color: #f0ebee;
+			}
+
+			.button:active {
+				background-color: #c8c8c8;
+				box-shadow: 0 5px #666;
+				transform: translateY(3px);
+			}
+
+			.main {
+				position: relative;
+				padding: 40px 40px;
+				border-radius: 16px;
+				background-color: #fff;
+				margin: 0 auto;
+			}
+
+			p {
+				width: 100%;
+			}
+
+			b {
+				color: #dfaece;
+				font-weight: normal;
+			}
+
+			a {
+				text-decoration: none;
+				color: lightblue;
+			}
+			
+			a:hover {
+				color: #5ba1d7;
+			}
+
+			ul {
+				list-style: "⭐ "
+			}
+
+
+			.white {
+				color: #fff;
+				font-weight: bold;
+			}
+
+			.medPink {
+				color: #f0ceec;
+			}
+
+			.deepPink {
+				color: #db8fd3;
+			}
+
+			footer {
+				font-size: 0.8em;
+				position: absolute;
+				bottom: 0px;
+				left: 50%;
+				transform: translate(-50%, 0%);
+				width: 80%;
+				max-width: 700px;
+				text-align: right;
+			}
+		</style>
+	</head>
+
+	<body>
+		<div class='all'>
+			<h1>🌠</h1>
+			<h1>star doodles</h1>
+			<div class='main'>
+				<h2 class='medPink'>your self-care art journal.</h2>
+				<p>welcome to a simple art and reflection tool to <a href="https://www.researchgate.net/publication/254280393_Effect_of_Art_Production_on_Negative_Mood_A_Randomized_Controlled_Trial">reduce anxiety</a>.</n></span>
+				<ul>
+					<li>doodle in your browser</li>
+					<li>get inspired by handpicked <b>prompts</b></li>
+					<li>reflect in a journal entry</li>
+					<li><b>save</b> your work on your laptop</li>
+				</ul>
+			</div>
+
+			<!-- Buttons -->
+
+			<div style='position:relative; width:100%; display:flex; justify-content:center; margin-top:20px;'>
+				<button class="button" id="start" onclick="window.location='./canvas.html'">
+					start</button>
+			</div>
+		</div>
+		<footer>
+			<a href="">about</a>
+		</footer>
+	</body>
+
+</html>
