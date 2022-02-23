@@ -13,10 +13,11 @@ Users can draw art on a canvas capable of erasing, changing brush size, and clea
 We designed Star Doodles with convenience and utility in mind. This allows users to access and edit the contents of their journal from directly drawing on our webpage or from uploading pictures of physical art from their phone. There is also a text box under each page for traditional journaling and additional thoughts. Our emphasis on privacy also means that the user can feel safe expressing themselves. 
 
 # Credits
-**Team**:
+**Team Members**:
 - Melody Liu: Front-end design and styling (HTML/CSS)
 - Chanmi Oh: Front-end engineering (JS)
-- Cindy Hou: Subject research and ideation
+- Cindy Hou: Subject research and ideation  
+
 **Tech Stack**: HTML/CSS/JS, Qoom  
 **Google Fonts**: Yusei Magic  
 **Tutorials**: EnvatoTuts+'s "How to Create a Web-Based Drawing Application Using Canvas"  
