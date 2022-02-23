@@ -1,4 +1,5 @@
-View the project at https://stardoodles.qoom.space/files/home.html
+View the project at https://stardoodles.qoom.space/files/home.html  
+Made by Melody Liu, Chanmi Oh, and Cindy Hou.
 
 # Concept
 With factors like stress and anxiety becoming more prevalent than ever, many people are turning to unhealthy coping mechanisms, like emotional eating and detachment. Star Doodleis a mindfulness focused art journal that uses psychological evidence from studies to give users a better understanding of their negative emotions and practice in meditation through sublimation and artistic expression. 
@@ -13,10 +14,10 @@ Users can draw art on a canvas capable of erasing, changing brush size, and clea
 We designed Star Doodles with convenience and utility in mind. This allows users to access and edit the contents of their journal from directly drawing on our webpage or from uploading pictures of physical art from their phone. There is also a text box under each page for traditional journaling and additional thoughts. Our emphasis on privacy also means that the user can feel safe expressing themselves. 
 
 # Credits
-**Team Members**:
+**Team Members: Primary Roles**:
 - Melody Liu: Front-end design and styling (HTML/CSS)
 - Chanmi Oh: Front-end engineering (JS)
-- Cindy Hou: Subject research and ideation  
+- Cindy Hou: Subject research  
 
 **Tech Stack**: HTML/CSS/JS, Qoom  
 **Google Fonts**: Yusei Magic  
