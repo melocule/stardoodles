@@ -19,10 +19,8 @@ We designed Star Doodles with convenience and utility in mind. This allows users
 - Cindy Hou: Subject research  
 
 # Tech Stack  
-- Qoom (online dev environment with live collaboration and rendering)  
-- Vanilla HTML/CSS/JS  
-
-# Credits
+**IDE, Host**: Qoom[https://www.qoom.io/]  
+**Languages**: Vanilla HTML/CSS/JS  
 **Google Fonts**: Yusei Magic  
 **Tutorials**: EnvatoTuts+'s "How to Create a Web-Based Drawing Application Using Canvas"  
 **Icons**: Icons8.com, flaticon.com  
