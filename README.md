@@ -13,15 +13,17 @@ Users can draw art on a canvas capable of erasing, changing brush size, and clea
 	Following this, they can describe their artwork and elaborate on their feelings in a journal entry. This is a textarea that sends its contents into a TXT file when saved.
 We designed Star Doodles with convenience and utility in mind. This allows users to access and edit the contents of their journal from directly drawing on our webpage or from uploading pictures of physical art from their phone. There is also a text box under each page for traditional journaling and additional thoughts. Our emphasis on privacy also means that the user can feel safe expressing themselves. 
 
-# Credits
-**Team**:
+# Team
 - Melody Liu: Front-end design and styling (HTML/CSS)
 - Chanmi Oh: Front-end engineering (JS)
 - Cindy Hou: Subject research  
+
+# Tech Stack  
+- Qoom (online dev environment with live collaboration and rendering)  
+- Vanilla HTML/CSS/JS  
+
+# Credits
 **Google Fonts**: Yusei Magic  
 **Tutorials**: EnvatoTuts+'s "How to Create a Web-Based Drawing Application Using Canvas"  
 **Icons**: Icons8.com, flaticon.com  
   
-# Tech Stack  
-Qoom (online dev environment with live collaboration and rendering)  
-Vanilla HTML/CSS/JS
