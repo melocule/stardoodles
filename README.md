@@ -1,4 +1,4 @@
-View the project live at https://stardoodles.qoom.space/files/home.html  
+View the project live on [Qoom](https://stardoodles.qoom.space/files/home.html) or [GitHub Pages](https://melocule.github.io/stardoodles/home.html)  
 
 # Application
 Won "Best Use of Qoom" at the [2021 Starhacks Hackathon](https://starhacks.devpost.com/)  
