@@ -1,5 +1,5 @@
-View the project live at https://stardoodles.qoom.space/files/home.html
-Made by Melody Liu, Chanmi Oh, and Cindy Hou in 2 days.
+View the project live at https://stardoodles.qoom.space/files/home.html  
+Made by Melody Liu, Chanmi Oh, and Cindy Hou in 2 days.  
 Won "Best Use of Qoom" at the [2021 Starhacks Hackathon](https://starhacks.devpost.com/)
 
 # Application
@@ -21,7 +21,7 @@ We designed Star Doodles with convenience and utility in mind. This allows users
 - Cindy Hou: Subject research  
 
 # Tech Stack  
-**IDE, Host**: Qoom[https://www.qoom.io/]  
+**IDE, Host**: [Qoom](https://www.qoom.io/)  
 **Languages**: Vanilla HTML/CSS/JS  
 
 ## Credits
