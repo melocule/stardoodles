@@ -1,7 +1,7 @@
 View the project live at https://stardoodles.qoom.space/files/home.html  
 
 # Application
-Won "Best Use of Qoom" at the [2021 Starhacks Hackathon](https://starhacks.devpost.com/)
+Won "Best Use of Qoom" at the [2021 Starhacks Hackathon](https://starhacks.devpost.com/)  
 Made by Melody Liu, Chanmi Oh, and Cindy Hou.  
 ## Purpose
 With factors like stress and anxiety becoming more prevalent than ever, many people are turning to unhealthy coping mechanisms, like emotional eating and detachment. Star Doodleis a mindfulness focused art journal that uses psychological evidence from studies to give users a better understanding of their negative emotions and practice in meditation through sublimation and artistic expression. 
